@@ -1,0 +1,9 @@
+so we'll use logistic regression with X being a len(param)-1 long vector
+y will be the output
+
+logistic regression will reduce the error on the model with gradient descent
+-not linear uses L2 regularization
+
+we can use this model to get values of newly changed "param" values
+-use python's sklearn, for logistic regression
+
